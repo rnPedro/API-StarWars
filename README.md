@@ -14,7 +14,7 @@ Este projeto é uma API RESTful para gerenciar informações sobre filmes de Sta
 - Mongoose
 - Insomnia (para testes)
 
-## Instalação
+## Copie o repo
 
 1. **Clone o repositório:**
 
