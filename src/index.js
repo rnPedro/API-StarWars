@@ -50,7 +50,7 @@ app.post("/", async (req, res) => {
 
 app.listen(port, () => {
   mongoose.connect(
-    "mongodb+srv://rnPedro:pe131311@starwarsapi.x5dtj6h.mongodb.net/?retryWrites=true&w=majority&appName=StarWarsAPI"
+    "mongodb+srv://rnPedro:<password>@starwarsapi.x5dtj6h.mongodb.net/?retryWrites=true&w=majority&appName=StarWarsAPI"
   );
   console.log("App rodando");
 });
