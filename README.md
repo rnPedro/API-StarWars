@@ -14,10 +14,3 @@ Este projeto é uma API RESTful para gerenciar informações sobre filmes de Sta
 - Mongoose
 - Insomnia (para testes)
 
-## Copie o repo
-
-1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/rnPedro/Compass-API.git
-   cd Compass-API
